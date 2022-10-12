@@ -1,0 +1,28 @@
+.table-row{
+    margin: 5px;
+    padding: 5px;
+}
+.table-item{
+    background-color: silver;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-left: 7px;
+    border-color:green;
+    border-radius: 5px;
+    border-style: solid;
+    padding:5px
+}
+
+td{
+    padding:10px;
+}
+
+b{
+    font-size: 150%;
+}
+
+table {
+    padding-right: 10%;
+    padding-left: 10%;
+}
