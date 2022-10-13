@@ -3,14 +3,8 @@
     padding: 5px;
 }
 .table-item{
-    background-color: silver;
-    border-top: 0px;
-    border-bottom: 0px;
-    border-right: 0px;
-    border-left: 7px;
-    border-color:green;
+    background-color: rgb(235, 250, 235);
     border-radius: 5px;
-    border-style: solid;
     padding:5px
 }
 
@@ -25,4 +19,33 @@ b{
 table {
     padding-right: 10%;
     padding-left: 10%;
+}
+
+.leftIndicator{
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-left: 7px;
+    border-style: solid;
+}
+
+.green{
+    border-color:rgb(51, 204, 51);
+}
+
+.amber{
+    border-color:rgb(239, 143, 8);
+}
+
+.red{
+    border-color:rgb(218, 8, 12);
+}
+
+
+.THIS .slds-progress-bar__value{
+    background: green;
+}
+.top-part{
+    text-align: center;
+    padding: 10px;
 }
